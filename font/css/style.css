@@ -253,8 +253,8 @@ footer {
 }
 
 .smaller-image {
-  max-width: 40%; /* Adjust as needed */
+  max-width: 45%; /* Adjust as needed */
   height: auto;
   padding: 10px;
-  padding-top: 20px;
+  padding-top: 15px;
 }
