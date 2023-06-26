@@ -1,17 +1,17 @@
 @font-face {
-  font-family: SVN-Gilroy-Regular;
-  src: url(../font/SVN-Gilroy\ Regular.otf);
+  font-family: Barlow-Regular;
+  src: url(../font/Barlow\-Regular.ttf);
 }
 @font-face {
-  font-family: SVN-Gilroy-Medium;
-  src: url(../font/SVN-Gilroy\ Medium.otf);
+  font-family: Barlow-Medium;
+  src: url(../font/Barlow\ Medium.woff.ttf);
 }
 @font-face {
-  font-family: SVN-Gilroy-Semibold;
-  src: url(../font/SVN-Gilroy\ SemiBold.otf);
+  font-family: Barlow-Semibold;
+  src: url(../font/Barlow\-Bold.ttf);
 }
 body {
-  font-family: SVN-Gilroy-Regular;
+  font-family: Barlow-Regular;
   font-size: 16px;
   line-height: 1.5;
   color: #33343e;
@@ -41,13 +41,13 @@ a {
 .h2,
 h1,
 h2 {
-  font-family: SVN-Gilroy-Semibold;
+  font-family: Barlow-Semibold;
 }
 .h3,
 .h4,
 h3,
 h4 {
-  font-family: SVN-Gilroy-Medium;
+  font-family: Barlow-Medium;
 }
 p,
 a {
@@ -116,7 +116,7 @@ a {
   background: linear-gradient(90deg, #fff 0%, #fff 113.04%) !important;
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
-  font-family: SVN-Gilroy-Semibold;
+  font-family: Barlow-Semibold;
 }
 .nav-tabs .nav-link {
   padding: 0;
@@ -130,7 +130,7 @@ a {
   background: linear-gradient(90deg, #0b5ce4 0%, #4ab6ce 113.04%) !important;
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
-  font-family: SVN-Gilroy-Semibold;
+  font-family: Barlow-Semibold;
 }
 .carousel-indicators {
   transform: rotate(90deg);
@@ -190,7 +190,7 @@ a {
   );
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
-  font-family: SVN-Gilroy-Semibold;
+  font-family: Barlow-Semibold;
   line-height: 85%;
 }
 .n4 {
@@ -233,7 +233,7 @@ footer {
   background: none;
 }
 .card b {
-  font-family: SVN-Gilroy-Semibold;
+  font-family: Barlow-Semibold;
 }
 .border-line-white {
   text-shadow: 1px 0 #fff, 1px 0 #fff, 0 1px #fff, 0 1px #fff, 1px 1px #fff,
@@ -256,5 +256,5 @@ footer {
   max-width: 40%; /* Adjust as needed */
   height: auto;
   padding: 10px;
-  padding-top: 20px;
+  padding-top: 15px;
 }
