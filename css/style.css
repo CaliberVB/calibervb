@@ -258,3 +258,13 @@ footer {
   padding: 10px;
   padding-top: 15px;
 }
+.pt-10 {
+  padding-top: 6rem !important;
+}
+.mt-10 {
+  margin-top: 6rem !important;
+}
+
+.text-hover-underline:hover {
+  text-decoration: underline;
+}
